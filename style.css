@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15px;
+}
+
+table {
+    margin-top: 10px;
+    
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
